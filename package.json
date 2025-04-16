@@ -1,21 +1,21 @@
 {
-  "name": "cloff-horizon",
-  "displayName": "Cloff Horizon",
-  "description": "Dark",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.99.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Cloff Horizon",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Cloff Horizon-color-theme.json"
-      }
-    ]
-  }
+    "name": "cloff-horizon",
+    "displayName": "Cloff Horizon",
+    "description": "Dark",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.99.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cloff Horizon",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cloff Horizon-color-theme.json"
+            }
+        ]
+    }
 }
